@@ -1,4 +1,5 @@
 # alge-editor
+Editor for the alge game engine written with Vue.js and electron.
 
 ## Project setup
 ```
